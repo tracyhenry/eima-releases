@@ -1,10 +1,10 @@
 {
-  "version": "0.1.1",
-  "notes": "Release v0.1.1",
+  "version": "0.1.2",
+  "notes": "Release v0.1.2",
   "pub_date": "2026-04-07T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/tracyhenry/eima-releases/releases/download/v0.1.1/Eima_0.1.1_aarch64.dmg",
+      "url": "https://github.com/tracyhenry/eima-releases/releases/download/v0.1.2/Eima_0.1.2_aarch64.dmg",
       "signature": ""
     }
   }
